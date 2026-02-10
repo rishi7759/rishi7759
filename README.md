@@ -8,7 +8,7 @@
 
 - HTML5  
 - CSS3  
-- JavaScript (Basics)  
+- JavaScript  
 - Git & GitHub  
 
 ## 📂 Projects

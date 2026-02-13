@@ -11,17 +11,6 @@
 - JavaScript  
 - Git & GitHub  
 
-## 📂 Projects
-
-### 🛒 Amazon Clone Website
-A static Amazon homepage clone built using HTML and CSS, focusing on layout, design, and styling.
-
-🔗 Repository: https://github.com/rishi7759/amazon-clone-html-css  
-
-### 🃏 Blackjack Game
-A simple browser-based Blackjack game built using HTML, CSS, and JavaScript.
-
-🔗 Repository: https://github.com/rishi7759/blackjack-game  
 
 ## 📚 What I'm Learning
 
